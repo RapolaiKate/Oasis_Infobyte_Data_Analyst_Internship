@@ -2,17 +2,23 @@
 
 ## 📌 Overview
 
-This folder contains the original customer transaction dataset used for the **Customer Segmentation Analysis** project.
+This folder contains information about the original customer transaction dataset used for the **Customer Segmentation Analysis** project.
 
-The dataset was used to analyze customer purchasing behavior and perform **RFM (Recency, Frequency, Monetary) Analysis**.
+The original dataset was obtained from **Kaggle** and was used to perform data cleaning, RFM analysis, customer segmentation, visualization, and business analysis.
 
-## 📄 Dataset File
+## 📄 Dataset
 
-**File:** `customer_segmentation.csv`
+**Dataset:** Customer Segmentation Dataset
 
-## 📊 Dataset Description
+**Source:** Kaggle
 
-The dataset contains transactional information about customer purchases, including:
+The original CSV file is **not included in this GitHub repository because the file size exceeds GitHub's upload limit for the upload method used**.
+
+The cleaned version of the dataset, where applicable, is available in the **Cleaned_Data** folder.
+
+## 📊 Dataset Features
+
+The dataset contains transactional information including:
 
 - **InvoiceNo** – Unique invoice or transaction number.
 - **StockCode** – Unique product or stock code.
@@ -23,7 +29,7 @@ The dataset contains transactional information about customer purchases, includi
 - **CustomerID** – Unique customer identifier.
 - **Country** – Customer's country.
 
-## 🎯 Purpose of the Dataset
+## 🎯 Purpose
 
 The dataset was used to:
 
@@ -33,13 +39,3 @@ The dataset was used to:
 - Perform RFM scoring.
 - Segment customers based on purchasing behavior.
 - Generate business insights and recommendations.
-
-## 🔄 Data Processing
-
-The original dataset was cleaned and prepared before performing the RFM analysis.
-
-The cleaned version of the dataset is available in the **Cleaned_Data** folder.
-
-## 📌 Source
-
-The dataset was obtained from **Kaggle** and used for the Oasis Infobyte Data Analytics Internship Customer Segmentation project.
