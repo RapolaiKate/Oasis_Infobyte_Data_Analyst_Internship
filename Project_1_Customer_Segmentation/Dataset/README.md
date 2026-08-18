@@ -2,21 +2,20 @@
 
 ## 📌 Overview
 
-This folder contains information about the original customer transaction dataset used for the **Customer Segmentation Analysis** project.
+This folder contains information about the original customer transaction dataset used for the **Customer Segmentation Analysis** project as part of the **Oasis Infobyte Data Analytics Internship**.
 
-The original dataset was obtained from **Kaggle** and was used to perform data cleaning, RFM analysis, customer segmentation, visualization, and business analysis.
+The dataset was used to analyze customer purchasing behavior and perform **RFM (Recency, Frequency, Monetary) Analysis**.
 
-## 📄 Dataset
+## 📄 Dataset Information
 
-**Dataset:** Customer Segmentation Dataset
-
+**Dataset:** Customer Segmentation Dataset  
 **Source:** Kaggle
 
-The original CSV file is **not included in this GitHub repository because the file size exceeds GitHub's upload limit for the upload method used**.
+The original CSV file is not included in this GitHub repository because its file size exceeds the GitHub upload limit.
 
-The cleaned version of the dataset, where applicable, is available in the **Cleaned_Data** folder.
+The dataset was used as the starting point for the data preparation and customer segmentation analysis documented in the project notebook.
 
-## 📊 Dataset Features
+## 📊 Dataset Columns
 
 The dataset contains transactional information including:
 
@@ -29,13 +28,16 @@ The dataset contains transactional information including:
 - **CustomerID** – Unique customer identifier.
 - **Country** – Customer's country.
 
-## 🎯 Purpose
+## 🎯 Purpose of the Dataset
 
 The dataset was used to:
 
 - Analyze customer purchasing behavior.
+- Identify customer transaction patterns.
 - Calculate transaction values.
-- Calculate Recency, Frequency, and Monetary metrics.
-- Perform RFM scoring.
+- Prepare data for RFM analysis.
 - Segment customers based on purchasing behavior.
 - Generate business insights and recommendations.
+
+
+The final RFM customer-level results are available in the **Output** folder, while the complete analysis, visualizations, insights, recommendations, and conclusion are available in the Jupyter Notebook.
