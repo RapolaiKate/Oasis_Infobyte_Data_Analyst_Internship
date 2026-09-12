@@ -1,4 +1,4 @@
-# 📸 Power BI Dashboard Screenshot
+# 📸 Power BI Dashboard Screenshots
 
 ## Overview
 
