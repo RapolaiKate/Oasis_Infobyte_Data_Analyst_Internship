@@ -195,7 +195,3 @@ At the same time, **At Risk and Lost Customers** represented **30.17%** of custo
 Overall, the analysis demonstrates how data cleaning, RFM analysis, customer scoring, segmentation, data visualization, and business interpretation can be combined to generate actionable insights.
 
 The findings can help a business better understand customer value, improve retention, strengthen customer loyalty, encourage repeat purchases, and develop targeted marketing strategies.
-
-## 👤 Author
-**Malesela Kate**
-**Oasis Infobyte Data Analytics Internship**
